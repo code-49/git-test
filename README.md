@@ -1,9 +1,3 @@
-# hello
+# Hello World
 
-# world
-
-# good coding
-
-# another
-
-# one more
+# Good Coding
