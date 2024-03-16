@@ -1,3 +1,1 @@
-# Hello World
-
-# Good Coding
+# Hello World Good Coding
